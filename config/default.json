@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://wyzer:wyzer123@devconnector-tw6kw.mongodb.net/test?retryWrites=true&w=majority"
+}
